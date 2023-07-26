@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>digitalBooking</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>digitalBooking</name>
+	<artifactId>BookingAPI</artifactId>
+	<version>1.0.0</version>
+	<name>BookingAPI</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

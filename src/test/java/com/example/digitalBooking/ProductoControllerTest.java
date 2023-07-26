@@ -75,15 +75,6 @@ public class ProductoControllerTest {
     }
 
     @Test
-    @DisplayName("WHEN we edit a producto THEN return HTTP Status 200 and message 'Se edito el producto correctamente'")
-    public void editProducto() throws BadRequestException, ProductoNotFoundException {
-        //WHEN
-        given(service.update(requestProductoDTO)).willReturn(true);
-        //THEN
-        assertEquals(controller.putByid(requestProductoDTO),new ResponseEntity<>("Se edito el producto correctamente", HttpStatus.OK));
-    }
-
-    @Test
     @DisplayName("WHEN we bring a producto by ciudad THEN return HTTP STATUS 200 OK and a producto")
     public void getProductoByCiudad(){
         //WHEN

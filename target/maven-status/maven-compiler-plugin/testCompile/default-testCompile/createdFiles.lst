@@ -1,0 +1,17 @@
+com\example\digitalBooking\CategoriaServiceTest.class
+com\example\digitalBooking\PuntuacionControllerTest.class
+com\example\digitalBooking\CiudadServiceTest.class
+com\example\digitalBooking\ReservaServiceTest.class
+com\example\digitalBooking\CategoriaControllerTest.class
+com\example\digitalBooking\CaracteristicaServiceTest.class
+com\example\digitalBooking\ReservaControllerTest.class
+com\example\digitalBooking\CiudadControllerTest.class
+com\example\digitalBooking\UsuarioServiceTest.class
+com\example\digitalBooking\ProductoControllerTest.class
+com\example\digitalBooking\DigitalBookingApplicationTests.class
+com\example\digitalBooking\ImagenControllerTest.class
+com\example\digitalBooking\ImagenServiceTest.class
+com\example\digitalBooking\PuntuacionServiceTest.class
+com\example\digitalBooking\UsuarioControllerTest.class
+com\example\digitalBooking\ProductoServiceTest.class
+com\example\digitalBooking\CaracteristicaControllerTest.class
